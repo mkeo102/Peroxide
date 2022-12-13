@@ -1,4 +1,4 @@
-# danny-125
+# Mkeo102
 
 <div align="center">
 	
@@ -8,8 +8,7 @@
 	Peroxide Lite
 </h1>
 
-<p align="center">
-	client is abandoned, look for trumpware release in the future
+<p align="center
 </p>
 
 <div align="center">
