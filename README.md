@@ -5,14 +5,14 @@
 </div>
 
 <h1 align="center">
-	Peroxide Lite
+	Peroxide
 </h1>
 
 <p align="center
 </p>
 
 <div align="center">
-  <a href="https://github.com/danny-125/Peroxide/releases/latest"><img src="https://img.shields.io/github/v/release/danny-125/Peroxide"></a>
+  <a href="https://github.com/mkeo102/Peroxide/releases/latest"><img src="https://img.shields.io/github/v/release/danny-125/Peroxide"></a>
   <img src="https://img.shields.io/github/last-commit/danny-125/Peroxide">
   <img src="https://img.shields.io/github/commit-activity/m/danny-125/Peroxide">
   <img src="https://img.shields.io/github/languages/code-size/danny-125/Peroxide">
